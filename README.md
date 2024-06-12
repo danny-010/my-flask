@@ -5,3 +5,5 @@ tarruda/zsh-autosuggestions
 
 1a merage
 1a merage 2
+1a change commit log
+rebase
